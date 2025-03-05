@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Hamza-Dakar.github.io/CICD/",
+  "homepage": "https://hamza-dakar.github.io/CICD/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
